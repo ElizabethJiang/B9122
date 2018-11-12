@@ -1,3 +1,5 @@
+print('I am now making changes to this py file in order to finish my homework3.')
+
 hrs=input('Enter Hours:')
 print(hrs)
 h=float(hrs)
